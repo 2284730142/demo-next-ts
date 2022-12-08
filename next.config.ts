@@ -6,4 +6,5 @@ const nextConfig: NextConfig = {
     // distDir: 'next.build.test',
 };
 
+
 module.exports = nextConfig
